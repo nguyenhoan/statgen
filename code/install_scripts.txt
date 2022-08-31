@@ -1,0 +1,5 @@
+setenv PATH ${PATH}:${HOME}/opt/gradle/gradle-4.6/bin
+setenv CORENLP_HOME ${HOME}/CoreNLP
+setenv PATH=${PATH}:${HOME}/phrasal/scripts
+setenv PHRASAL_HOME ${HOME}/translation/phrasal
+setenv CLASSPATH ${PHRASAL_HOME}/build/install/phrasal/lib/*
